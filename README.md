@@ -13,6 +13,10 @@ Instructions:
 
 -Enjoy
 
+Notes:
+-The default female player name is still "Kris" if you dont input a name during the intro sequence
+-The original kris files have been renamed with the suffix "_kris" to keep as backup in case you want to switch back later, just delete the lyra files (usually may.png), and rename the kris files by removing "_kris" (for example: delete may.png, then rename may_kris.png to may.png)
+
 Credits: I used kisirokitsune's sprites as a basis for lyras colors, and copied many of their sprites (https://www.deviantart.com/kisirokitsune/art/HGSS-Girl-Completed-Sheet-136710154). 
 I also used the existing Kris sprites from HnS for reference and how to position the sprites (Cesare_CBass, AveonTrainer, PurpleZaffre, BatimaTheBat)
 
